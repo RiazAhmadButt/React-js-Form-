@@ -1,0 +1,21 @@
+.input-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+input, select, option{
+    width: 40%;
+    border-radius: 40px;
+    padding: 20px;
+}
+.btn{
+    width: 40%;
+    padding: 20px;
+    border-radius: 40px;
+    background-color: lightblue;
+    border: none;
+    font-size: 30px;
+}
